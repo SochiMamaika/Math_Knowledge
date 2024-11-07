@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1701959463 source:/home/maxim/projects/gui3/source/button.cc
+	<cstring>
+	"window.h"
+	"text.h"
+	"image.h"
+	"button.h"
+
+1702036850 /home/maxim/projects/gui3/source/window.h
+	<inttypes.h>
+	"aux.h"
+
+1702054659 /home/maxim/projects/gui3/source/aux.h
+
+1702054386 /home/maxim/projects/gui3/source/text.h
+
+1701687753 /home/maxim/projects/gui3/source/image.h
+
+1701766709 /home/maxim/projects/gui3/source/button.h
+
+1701607745 source:/home/maxim/projects/gui3/source/digit7.cc
+	<cmath>
+	"window.h"
+	"digit7.h"
+
+1640330670 /home/maxim/projects/gui3/source/digit7.h
+
