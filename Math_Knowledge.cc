@@ -264,7 +264,7 @@ bool MainWindow::OnKeyPress(uint64_t keyval)
     case 'q':
         DeleteMe();
         return true;
-    case KEY_Esc:
+    case KEY_Backspace:
         m_value1 = 0;
         PrintString(); // Обновляем вывод
 
